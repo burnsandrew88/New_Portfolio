@@ -1,0 +1,25 @@
+body {
+    background-image: url("./assets/conifer-2178595_1920.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.side_nav {
+    background-color:  rgb(0, 0, 0, 0.7);
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    padding-top:70px;
+}
+.side_nav a {
+    color:white;
+    padding-bottom: 20px;
+}
+
+p{
+    font-size: 25px;
+}
+.nav-items {
+    color: white;
+}
